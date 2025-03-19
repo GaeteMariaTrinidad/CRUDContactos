@@ -1,0 +1,7 @@
+# Ignorar archivos de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.db
