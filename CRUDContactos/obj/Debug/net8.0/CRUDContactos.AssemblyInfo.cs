@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDContactos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03c18b1ed6c9e9ebe12be75e0301182d42e068eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDContactos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDContactos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

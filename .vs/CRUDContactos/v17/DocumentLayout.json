@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|c:\\users\\trini\\documents\\github\\crudcontactos\\crudcontactos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|solutionrelative:crudcontactos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|c:\\users\\trini\\documents\\github\\crudcontactos\\crudcontactos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|solutionrelative:crudcontactos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|c:\\users\\trini\\documents\\github\\crudcontactos\\crudcontactos\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|solutionrelative:crudcontactos\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|c:\\users\\trini\\documents\\github\\crudcontactos\\crudcontactos\\datos\\contactodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|solutionrelative:crudcontactos\\datos\\contactodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|c:\\users\\trini\\documents\\github\\crudcontactos\\crudcontactos\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|solutionrelative:crudcontactos\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|c:\\users\\trini\\documents\\github\\crudcontactos\\crudcontactos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|solutionrelative:crudcontactos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|c:\\users\\trini\\documents\\github\\crudcontactos\\crudcontactos\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DCD0C23-B9A1-41DD-A724-D9C0F52D26B3}|CRUDContactos\\CRUDContactos.csproj|solutionrelative:crudcontactos\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\.gitignore",
-              "RelativeDocumentMoniker": "CRUDContactos\\.gitignore",
-              "ToolTip": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\.gitignore",
-              "RelativeToolTip": "CRUDContactos\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-19T02:33:34.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContactoDatos.cs",
-              "DocumentMoniker": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\Datos\\ContactoDatos.cs",
-              "RelativeDocumentMoniker": "CRUDContactos\\Datos\\ContactoDatos.cs",
-              "ToolTip": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\Datos\\ContactoDatos.cs",
-              "RelativeToolTip": "CRUDContactos\\Datos\\ContactoDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:10:03.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\appsettings.json",
               "RelativeDocumentMoniker": "CRUDContactos\\appsettings.json",
               "ToolTip": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\appsettings.json",
               "RelativeToolTip": "CRUDContactos\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T16:07:13.979Z",
+              "WhenOpened": "2025-03-20T15:32:59.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\Datos\\Conexion.cs",
-              "RelativeDocumentMoniker": "CRUDContactos\\Datos\\Conexion.cs",
-              "ToolTip": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\Datos\\Conexion.cs",
-              "RelativeToolTip": "CRUDContactos\\Datos\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "ContactoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\Datos\\ContactoDatos.cs",
+              "RelativeDocumentMoniker": "CRUDContactos\\Datos\\ContactoDatos.cs",
+              "ToolTip": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\Datos\\ContactoDatos.cs",
+              "RelativeToolTip": "CRUDContactos\\Datos\\ContactoDatos.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAewF8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:00:00.484Z",
+              "WhenOpened": "2025-03-20T15:29:15.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guardar.cshtml",
+              "DocumentMoniker": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\Views\\Mantenedor\\Guardar.cshtml",
+              "RelativeDocumentMoniker": "CRUDContactos\\Views\\Mantenedor\\Guardar.cshtml",
+              "ToolTip": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\Views\\Mantenedor\\Guardar.cshtml",
+              "RelativeToolTip": "CRUDContactos\\Views\\Mantenedor\\Guardar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T14:49:13.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MantenedorController.cs",
+              "DocumentMoniker": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\Controllers\\MantenedorController.cs",
+              "RelativeDocumentMoniker": "CRUDContactos\\Controllers\\MantenedorController.cs",
+              "ToolTip": "C:\\Users\\trini\\Documents\\GitHub\\CRUDContactos\\CRUDContactos\\Controllers\\MantenedorController.cs",
+              "RelativeToolTip": "CRUDContactos\\Controllers\\MantenedorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:50:54.703Z",
               "EditorCaption": ""
             }
           ]
